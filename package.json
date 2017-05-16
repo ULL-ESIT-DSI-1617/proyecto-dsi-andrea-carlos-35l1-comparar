@@ -1,18 +1,19 @@
 {
   "name": "@ull-andrea-carlos/comparar",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha",
-    "doc": "documentation build lib/comparar.js -f html -o docs"
+    "doc": "documentation build lib/comparar.js -f html -o docs",
+    "act": "npm install --save @ull-andrea-carlos/secuencia && npm install --save @ull-andrea-carlos/igual && npm install --save @ull-andrea-carlos/primos && npm install --save @ull-andrea-carlos/fibonacci"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ull-andrea-carlos/fibonacci": "^1.0.0",
-    "@ull-andrea-carlos/igual": "^1.0.1",
-    "@ull-andrea-carlos/primos": "^1.0.0",
-    "@ull-andrea-carlos/secuencia": "^1.0.0"
+    "@ull-andrea-carlos/fibonacci": "^1.0.2",
+    "@ull-andrea-carlos/igual": "^1.0.2",
+    "@ull-andrea-carlos/primos": "^1.0.1",
+    "@ull-andrea-carlos/secuencia": "^1.0.2"
   }
 }
