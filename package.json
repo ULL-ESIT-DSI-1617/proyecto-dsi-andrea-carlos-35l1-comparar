@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@ull-andrea-carlos/fibonacci": "^1.0.0",
-    "@ull-andrea-carlos/igual": "^1.0.0",
+    "@ull-andrea-carlos/igual": "^1.0.1",
     "@ull-andrea-carlos/primos": "^1.0.0",
     "@ull-andrea-carlos/secuencia": "^1.0.0"
   }
