@@ -1,6 +1,6 @@
 {
   "name": "@ull-andrea-carlos/comparar",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,10 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ull-andrea-carlos/diferencia": "^1.0.1",
-    "@ull-andrea-carlos/fibonacci": "^1.0.2",
-    "@ull-andrea-carlos/igual": "^1.0.2",
-    "@ull-andrea-carlos/primos": "^1.0.1",
-    "@ull-andrea-carlos/secuencia": "^1.0.2"
+    "@ull-andrea-carlos/diferencia": "^1.0.2",
+    "@ull-andrea-carlos/fibonacci": "^1.0.4",
+    "@ull-andrea-carlos/igual": "^1.0.3",
+    "@ull-andrea-carlos/primos": "^1.0.2",
+    "@ull-andrea-carlos/secuencia": "^1.0.3"
   }
 }
