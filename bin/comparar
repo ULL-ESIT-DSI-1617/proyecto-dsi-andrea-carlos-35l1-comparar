@@ -1,0 +1,3 @@
+#!/usr/bin/env node
+var comparar = require('../lib/comparar.js');
+console.log(comparar(process.argv[2]));
