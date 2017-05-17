@@ -6,11 +6,11 @@ Este módulo proporciona una estructura para realizar la comparación de secuenc
 ## Despliegue en Heroku
   * [Heroku](https://ull-andrea-carlos-comparador.herokuapp.com/)
 ## Hace uso de los módulos
-    * [Secuencia](https://www.npmjs.com/package/@ull-andrea-carlos/secuencia)
-    * [Fibonacci](https://www.npmjs.com/package/@ull-andrea-carlos/fibonacci).
-    * [Primos](https://www.npmjs.com/package/@ull-andrea-carlos/primos).
-    * [Igual](https://www.npmjs.com/package/@ull-andrea-carlos/igual).
-    * [Diferencia](https://www.npmjs.com/package/@ull-andrea-carlos/diferencia)
+  * [Secuencia](https://www.npmjs.com/package/@ull-andrea-carlos/secuencia)
+  * [Fibonacci](https://www.npmjs.com/package/@ull-andrea-carlos/fibonacci).
+  * [Primos](https://www.npmjs.com/package/@ull-andrea-carlos/primos).
+  * [Igual](https://www.npmjs.com/package/@ull-andrea-carlos/igual).
+  * [Diferencia](https://www.npmjs.com/package/@ull-andrea-carlos/diferencia)
 ## Repositorios del proyecto.
   * [Secuencia](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-secuencia).
   * [Fibonacci](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-fibonacci).
