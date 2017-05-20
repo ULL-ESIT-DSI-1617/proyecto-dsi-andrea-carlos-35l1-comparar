@@ -1,5 +1,7 @@
 # Proyecto DSI
 
+[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-comparar.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-comparar)
+
 ## Modulo Comparar
 
 Este módulo proporciona una estructura para realizar la comparación de secuencias desarrollada mediante todos los módulos.
